@@ -123,7 +123,7 @@ export default function Header() {
                       </Menu.Item>
                       <Menu.Item>
                         <a
-                          href="https://dntandan.ml"
+                          href="https://nilanchal-portfolio.vercel.app/"
                           className="text-center border-t bg-violet-500 text-gray-900 group flex rounded-md items-center w-full px-2 py-3 mt-1 text-sm"
                         >
                           Made with 💙 by {config.PORTFOLIO_NAME}
@@ -157,7 +157,7 @@ export default function Header() {
           <div>
             <p>
               Made with 💙 by{' '}
-              <Link href="https://dntandan.ml">{config.PORTFOLIO_NAME}</Link>
+              <Link href="https://nilanchal-portfolio.vercel.app/">{config.PORTFOLIO_NAME}</Link>
             </p>
           </div>
           <Link href="/">
