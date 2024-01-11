@@ -11,26 +11,24 @@ export default class MyDocument extends Document {
         <Head>
           <link rel="icon" href="/favicon.ico" />
           {/* Meta Tags */}
-          <meta name="title" content="GitWind" key="title" />
+          <meta name="title" content="Nilanchal" key="title" />
           <meta
             name="description"
             key="description"
             content="Nilanchal Patra Portfolio"
           />
-
-          {/* <!-- Open Graph / Facebook --> */}
           <meta property="og:type" key="ogtype" content="website" />
-          <meta property="og:url" key="ogurl" content="https://gitwind.ml/" />
-          <meta property="og:title" key="ogtitle" content="GitWind Portfolio" />
+          <meta property="og:url" key="ogurl" content="https://nilanchal-portfolio.vercel.app/" />
+          <meta property="og:title" key="ogtitle" content="Nilanchal Portfolio" />
           <meta
             property="og:description"
             key="ogdescription"
-            content="A Github themed portfolio template using NextJS & TailwindCSS"
+            content="Nilanchal Portfolio Made in Next.JS"
           />
           <meta
             property="og:image"
             key="ogimage"
-            content="https://gitwind.ml/assets/img/gitwind-banner.jpg"
+            content="https://nilanchal-portfolio.vercel.app/assets/img/user.jpg"
           />
 
           {/* <!-- Twitter --> */}
@@ -42,22 +40,22 @@ export default class MyDocument extends Document {
           <meta
             property="twitter:url"
             key="twitterurl"
-            content="https://gitwind.ml/"
+            content="https://nilanchal-portfolio.vercel.app/"
           />
           <meta
             property="twitter:title"
             key="twittertitle"
-            content="GitWind Portfolio"
+            content="Nilanchal Portfolio"
           />
           <meta
             property="twitter:description"
             key="twitterdesc"
-            content="A Github themed portfolio template using NextJS & TailwindCSS"
+            content="Nilanchal Portfolio Made in Next.JS"
           />
           <meta
             property="twitter:image"
             key="twitterimage"
-            content="https://gitwind.ml/assets/img/gitwind-banner.jpg"
+            content="https://nilanchal-portfolio.vercel.app/assets/img/user.jpg"
           />
         </Head>
         <body>
